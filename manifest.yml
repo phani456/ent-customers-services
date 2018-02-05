@@ -1,0 +1,11 @@
+applications:
+- name: ent-customers-services
+  host : ent-customers-services
+  memory: 1G
+  domain: phani.patelkhana-org
+  instances: 1
+  path: ./target/ent-customer-services-0.0.1-SNAPSHOT.jar
+
+  
+  
+  
